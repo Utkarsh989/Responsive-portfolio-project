@@ -458,7 +458,7 @@ font-family: "Raleway", sans-serif;
 /*about*/
 .data1{
   padding-top:7vh;
-  backdrop-filter:blur(5px);
+  backdrop-filter:blur(2px);
   padding-left:2vw;
   color: white;
   margin: 30px 30px 30px 30px;
